@@ -29,16 +29,16 @@ public class Test1 {
 	    int arr[]={7980,22349,999,2799,229900,11101,9999,2195,9800,4999};
 	    String items[]={ "MI Band: 999","Sandwich Toaster: 2195" ,"Cult Pass: 2799","Scale: 4999","Fitbit Plus: 7980","Microwave Oven: 9800"  ,"Alexa: 9999","Digital Camera: 11101", "IPods: 22349","Macbook Pro: 229900" };
 	    int n = arr.length;
-	    System.out.println("Enter the number of employees");
+	    System.out.println("Enter the no.of employees");
 	    Scanner s = new Scanner(System.in);
 	    int k=s.nextInt();
 	    int result=minDiff(arr, n, k);  
-	    System.out.println("Number of the employees:"+k); 
+	    System.out.println("No.of the employees:"+k); 
 	    int startindex=findele(result,arr,n,k);
 	    System.out.println("The goodies that are needed to selected for distribution are:");
 	    for(int i=startindex;i<startindex+k;i++)
 	    System.out.println(items[i]);
-	      System.out.println("the difference between the choosen goodie with highest price and lowest price is:"+result);
+	      System.out.println("And the difference between the choosen goodie with highest price and lowest price is:"+result);
 	} 
 	
 		
