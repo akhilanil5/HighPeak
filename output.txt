@@ -1,0 +1,29 @@
+Enter the No.of employees
+4
+No. of the employees:4
+The goodies that are needed to selected for distribution are:
+Fitbit Plus: 7980
+Microwave Oven: 9800
+Alexa: 9999
+Digital Camera: 11101
+And the difference between the choosen goodie with highest price and lowest price is:3121
+
+Enter the No.of employees
+2
+No. of the employees:2
+The goodies that are needed to selected for distribution are:
+Microwave Oven: 9800
+Alexa: 9999
+And the difference between the choosen goodie with highest price and lowest price is:199
+
+Enter the No.of employees
+6
+No. of the employees:6
+The goodies that are needed to selected for distribution are:
+Sandwich Toaster: 2195
+Cult Pass: 2799
+Scale: 4999
+Fitbit Plus: 7980
+Microwave Oven: 9800
+Alexa: 9999
+And the difference between the choosen goodie with highest price and lowest price is:7804
